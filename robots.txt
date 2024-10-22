@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ptiniele.github.io/ptiniele.ptiniele
+Sitemap: https://ptiniele.github.io/app/ptiniele.ptiniele
+Sitemap: https://ptiniele.github.io/assets/ptiniele.ptiniele
+Sitemap: https://ptiniele.github.io/css/ptiniele.ptiniele
+Sitemap: https://ptiniele.github.io/includes/ptiniele.ptiniele
+Sitemap: https://ptiniele.github.io/item/ptiniele.ptiniele
+Sitemap: https://ptiniele.github.io/src/ptiniele.ptiniele
